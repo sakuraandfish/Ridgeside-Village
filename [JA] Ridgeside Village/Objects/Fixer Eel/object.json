@@ -1,0 +1,45 @@
+{
+	"Name": "Fixer Eel",
+	"Description": "A close relative of the electric eel. This variant is rarely found in rivers. It got its name from a local belief that its meat can heal any kind of sickness or sadness. Because of this belief, it suffers from overfishing.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 900,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Kenneth"],
+	},
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "定食鳗鱼",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "电鳗的近亲。 这种变体在河流中很少发现。 它的名字来源于当地人相信它的肉可以治愈任何疾病或悲伤。 由于这种信念，它遭受过度捕捞。",
+    }
+}

@@ -1,0 +1,188 @@
+{
+//触发任务
+
+"bert_honey.title": "惊慌失措的丈夫",
+"bert_honey.description": "奥尔加生我的气,但我知道如何让她开心！我的小兔子需要一些蜂蜜。",
+"bert_honey.objective": "给伯特带来蜂蜜",
+"bert_honey.reactiontext": "你带来了！非常感谢！希望她原谅我！$h",
+
+"trinnie_sunflower.title": "向日葵公主",
+"trinnie_sunflower.description": "Trinnie 需要向日葵来制作她想要成为向日葵公主的花裙！",
+"trinnie_sunflower.objective": "给 Trinnie 带来 10 朵向日葵",
+"trinnie_sunflower.rewardDesc": "来自我爸爸的 2000g",
+"trinnie_sunflower.reactiontext": "鲜花到了！太开心了！！非常感谢,@!!$h",
+
+"keahi_slime.title": "史莱姆王",
+"keahi_slime.description": "Keahi 想收集史莱姆作为一项新爱好。不要告诉他爸爸。",
+"keahi_slime.objective": "给 Keahi 带来 10 个史莱姆",
+"keahi_slime.reactiontext": "这些非常粘。太恶心了！但也太棒了！？谢谢！我现在是史莱姆之王！$4",
+
+"yuuma_ring.title": "游马丢失的戒指",
+"yuuma_ring.description": "Yuuma 的戒指丢了。他记得当他从 Jeric 的农场买东西时,戒指还在。",
+"yuuma_ring.objective": "找到悠马的戒指并带回给他",
+"yuuma_ring.reactiontext": "你找到了！？非常感谢你,@！我真的很感激！$h",
+
+"olga_tuna.title": "金枪鱼渴望",
+"olga_tuna.description": "Lidens 渴望金枪鱼。他们要你给他们送一个。把金枪鱼带给奥尔加。",
+    "目标": "将 1 条金枪鱼交给奥尔加",
+"olga_tuna.objective": "将 1 条金枪鱼交给奥尔加",
+"olga_tuna.reactiontext": "哦,嘿,你已经交付了！它也很新鲜！干得好@！$h",
+
+"aguar_essence.title": "无效实验",
+"aguar_essence.description": "Aguar 先生的实验需要一些虚空精华。",
+"aguar_essence.objective": "将 10 个虚空精华交给 Aguar 先生",
+"aguar_essence.reactiontext": "了不起的工作,@。这是我的报酬。现在请原谅我......",
+
+"freddie_sword.title": "老朋友",
+"freddie_sword.description": "弗雷迪在村子里闲逛时丢失了一把旧剑。他记得他站在瀑布旁边。",
+"freddie_sword.objective": "找到弗莱迪的剑并将其带回给他",
+"freddie_sword.reactiontext": "你来了,老朋友。谢谢你,@!$h",
+
+"pika_mayonnaise.title": "梅奥惊喜",
+"pika_mayonnaise.description": "皮卡的新食谱需要蛋黄酱,他让你给他送一份。",
+"pika_mayonnaise.objective": "送 1 个蛋黄酱给 Pika",
+"pika_mayonnaise.reactiontext": "Mahalo,@！谢谢！这是优质蛋黄酱！这是你的付款,正如承诺的那样！$h",
+
+"richard_glasses.title": "放错地方的眼镜",
+"richard_glasses.description": "理查德把眼镜放错了地方！他唯一记得的是他一整天都没有离开酒店。",
+"richard_glasses.objective": "找到理查德的眼镜并归还给他。",
+"richard_glasses.reactiontext": "你找到了？啊！我永远感激,@！$h",
+
+//棋盘任务
+"aguar_gem.title": "海蓝宝石差事",
+"aguar_gem.description": "我需要一颗海蓝宝石。如果你提供我想要的东西,我一定会付给你很多。\n - Aguar 先生。\n\n- 400 克交货\n - Aguar 先生会感激不尽",
+"aguar_gem.objective": "给 Aguar 先生送一颗海蓝宝石",
+"aguar_gem.reactiontext": "这就够了。这是你的付款。现在,如果你能原谅我......",
+
+"aguar_fairystone.title": "仙石差事",
+"aguar_fairystone.description": "我需要一块仙女石。如果你提供我想要的东西,我一定会付给你很多。\n -Aguar 先生。\n\n- 500g 交货\n - Aguar 先生会很感激的",
+"aguar_fairystone.objective": "给 Aguar 先生送一块仙石",
+"aguar_fairystone.reactiontext": "这就够了。这是你的报酬。现在,如果你能原谅我......",
+
+"bert_orange.title": "橘子人伯特",
+"bert_orange.description": "我想开办橙汁生意！我需要有人给我提供一些橙子......至少 3 个！\n -Bert.\n\n- 900g 交货\n - 伯特会很感激的",
+"bert_orange.objective": "给伯特送 3 个橙子",
+"bert_orange.reactiontext": "橙色,你很高兴我没有要香蕉吗？非常感谢,@！",
+
+"ezekiel_cavecarrot.title": "怀旧的味道",
+"ezekiel_cavecarrot.description": "我已经很久没有尝过洞穴胡萝卜了。如果有人给我带来一些,我会给他们一些硬币。\n -Ezekiel。\n\n- 200g 交货\n- Ezekiel 将感恩",
+"ezekiel_cavecarrot.objective": "把一个洞穴胡萝卜交给以西结",
+"ezekiel_cavecarrot.reactiontext": "呸,这味道太恶心了。我想我不会因为这件事就吃萝卜。$a",
+
+"freddie_shadowbrute.title": "残酷的阴影",
+"freddie_shadowbrute.description": "暗影蛮兽是危险的野兽。杀死一些暗影蛮兽为山谷带来和平。前进吧,年轻的冒险家。\n -Freddie。\n\n- 3000g 完成",
+"freddie_shadowbrute.objective": "杀死 10 个暗影蛮兵",
+
+"freddie_pepperrex.title": "一个很棒的爱好",
+"freddie_pepperrex.description": "有人听说过胡椒霸王龙吗？他们打猎很有趣！我挑战任何人杀死 10 只,我会奖励你。祝你好运！.\n -Freddie。\n \n- 4000g 完成",
+"freddie_pepperrex.objective": "杀死 10 只胡椒霸王龙",
+
+"keahi_tomato.title": "脚趾可能脚趾",
+"keahi_tomato.description": "谁能给我一个又大又肥又多汁的番茄？这是一个秘密项目。\n -Keahi。\n\n- 200g 发货\n- Keahi 会很感激的\n- Keahi 会放过你",
+"keahi_tomato.objective": "送番茄给 Keahi",
+"keahi_tomato.reactiontext": "太棒了,@！这将是史诗级的！$h",
+
+"keahi_bomb.title": "无害的恶作剧",
+"keahi_bomb.description": "所以……我爸爸不会给我买炸弹。所以我发了这个！如果有人有的话,给我一个,我会用我的积蓄付给你！快！在他们之前再次删除这个！。\n -Keahi。\n\n- 1000g 交货\n- Keahi 会很感激\n- 市民会担心",
+"keahi_bomb.objective": "将炸弹交给 Keahi",
+"keahi_bomb.reactiontext": "没人看到你吧？太棒了！再见,@！再次感谢！$h",
+
+"lenny_eggplant.title": "健康沙拉",
+"lenny_eggplant.description": "我看到了这个茄子沙拉的有趣食谱,它需要一个茄子。给我一个茄子。我付钱！.\n -Lenny。\n\n- 200 克交货\n- Lenny会很感激",
+"lenny_eggplant.objective": "送一个茄子给 Lenny",
+"lenny_eggplant.reactiontext": "终于来了！非常感谢@！今晚我要吃一顿健康的晚餐！$h",
+
+"lenny_wine.title": "缓解压力",
+"lenny_wine.description": "谁能给我拿点酒来？我需要减压。我不能保证我不会在一夜之间喝完一整瓶。\n -Lenny。\n\n- 1000g on送货\n- Lenny 会很感激",
+"lenny_wine.objective": "送酒给 Lenny",
+"lenny_wine.reactiontext": "啊！我一直渴望这个！谢谢你,@。",
+
+"lola_hauntedskull.title": "最好的",
+"lola_hauntedskull.description": "有人愿意挑战吗？如果你能杀死 20 个闹鬼的骷髅,我会给你丰厚的报酬。亲爱的,为我杀死一些。\n -Lola。\n\n- 10000g 完成",
+"lola_hauntedskull.objective": "杀死 20 个闹鬼的头骨",
+
+"lola_slime.title": "史莱姆杀手",
+"lola_slime.description": "我受够了这些黏糊糊的史莱姆。亲爱的,帮我杀几个绿色史莱姆。我会付钱的。\n -Lola。\n\n- 750g 完成后",
+"lola_slime.objective": "杀死 10 个绿色史莱姆",
+
+"olga_coffee.title": "Cuppa Coffee",
+"olga_coffee.description": "我想我可以试试咖啡。我已经厌倦了整天喝茶。我会付钱的。\n -Olga。\n\n- 250g 发货\n- Olga会很感激",
+"olga_coffee.objective": "给奥尔加送咖啡",
+"olga_coffee.reactiontext": "谢谢@！这比茶好多了！",
+
+"pika_cheese.title": "俗气的记忆",
+"pika_cheese.description": "我需要一些奶酪来制作我儿时的一道菜。我想让我的儿子品尝这道让我对烹饪充满热情的菜。\n -Pika。\n\n- 800g 交货\n - 皮卡会很感激",
+"pika_cheese.objective": "把奶酪送到 Pika",
+"pika_cheese.reactiontext": "Mahalo！谢谢！我等不及要开始做饭了！$h",
+
+"pika_starfruit.title": "余烬岛菜",
+"pika_starfruit.description": "我想念余烬岛的某道菜已经有一段时间了。不过我需要一些杨桃。如果有人能给我带来一个,我会非常感激的。\n -Pika。\n \n- 2000 克交货\n- 皮卡会很感激",
+"pika_starfruit.objective": "将杨桃交给鼠兔",
+"pika_starfruit.reactiontext": "Mahalo！谢谢你！我到处找这个！再次感谢你,@！$h",
+
+"richard_caviar.title": "昂贵的菜肴",
+"richard_caviar.description": "我打算在酒店的客房服务菜单中添加更多菜肴。其中一位客人推荐了鱼子酱。给我一些。我会付很多钱。\n -Richard。\n\n- 3000 克交货\n- 理查德会很感激",
+"richard_caviar.objective": "把鱼子酱交给理查德",
+"richard_caviar.reactiontext": "这是一些优质的鱼子酱,@！非常感谢。$h",
+
+"richard_bat.title": "老鼠,蝙蝠！",
+"richard_bat.description": "蝙蝠最近晚上一直在酒店附近闲逛！它们太吓人了！我需要有人在矿井里杀死一些它们,这样它们就不会飞过来了。\n -Richard。\n\n - 1000 克交货\n- 理查德会很感激",
+"richard_bat.objective": "杀死 20 只蝙蝠",
+
+"trinnie_pinkcake.title": "粉红梦",
+"trinnie_pinkcake.description": "所以我昨晚做了一个梦,我住在一座巨大的城堡里,它是用蛋糕做的……而且是粉红色的！然后我醒了,现在我想吃粉红色蛋糕！爸爸给了我钱来支付运费！\n -Trinnie。\n\n- 600g 送货\n- Trinnie 会很感激的",
+"三nie_pinkcake.objective": "把粉红蛋糕交给崔妮",
+"trinnie_pinkcake.reactiontext": "耶！它来了！非常感谢你,@！这是钱！$h",
+
+"trinnie_poppy.title": "罂粟画",
+"trinnie_poppy.description": "我需要一朵罂粟花！我很难画一朵！有人请给我带来一朵！谢谢！\n -Trinnie。\n\n- 400g 交货\n- Trinnie 会心怀感激",
+"trinnie_poppy.objective": "Trinnie 的罂粟花",
+"trinnie_poppy.reactiontext": "哦！看起来很漂亮！谢谢@！我会尽快开始画画！$h",
+
+"yuuma_burger.title": "一个孩子的愿望",
+"yuuma_burger.description": "如果没有人接受也没关系。但如果有人可以,我只想再尝一次生存汉堡,我已经很久没有吃过了。但是是的......没什么大不了的。谢谢你。\n -Yuuma。\n\n- 300g 交货\n- Yuuma 会很感激",
+"yuuma_burger.objective": "给 Yuuma 送一个生存汉堡",
+"yuuma_burger.reactiontext": "我想要这个很久了！非常感谢你,@！$h",
+
+"yuuma_iron.title": "破碎的秋千",
+"yuuma_iron.description": "Shiro 想修理房子前面的秋千,但我不会让他做。所以我会做,但我需要一个铁棒。谁能给我一些？我会的支付...我保证。谢谢你。\n -Yuuma。\n\n- 300g 交货\n- Yuuma 会很感激",
+"yuuma_iron.objective": "把铁锭交给悠马",
+"yuuma_iron.reactiontext": "谢谢你,@,很高兴你帮了我。我有点害怕自己去矿井取。",
+
+"mysticfalls_1.title": "伙伴关系的坠落",
+"mysticfalls_1.description": "在山脊森林中可以找到地下瀑布的踪迹。据说可以祝福重视友谊的人。",
+"mysticfalls_1.objective": "在山脊森林中寻找绿叶茂盛的隐藏瀑布",
+"mysticfalls_1.rewardDesc": "稀有的彩色宝石",
+
+"mysticfalls_2.title": "爱的坠落",
+"mysticfalls_2.description": "在山脊森林中可以找到地下瀑布的踪迹。据说可以祝福那些重视爱情的人。",
+"mysticfalls_2.objective": "在山脊森林中找到被粉色树木和沙子包围的隐藏瀑布",
+"mysticfalls_2.rewardDesc": "来自山谷的单身汉和单身女郎的感情",
+
+"mysticfalls_3.title": "牺牲的瀑布",
+"mysticfalls_3.description": "在山脊森林中可以找到地下瀑布的线索。据说可以祝福那些对未知事物感到好奇的人。",
+"mysticfalls_3.objective": "在山脊森林中找到被黑暗包围的隐藏瀑布",
+"mysticfalls_3.rewardDesc": "黑曜石边缘",
+
+//优惠
+"trinnie_sunflower.offer.topic": "向日葵公主",
+"trinnie_sunflower.offer.text": "亲爱的@,^ 这是Trinnie。我想问你能不能给我带些向日葵。因为我想成为向日葵公主……我听到Keahi 说向日葵很漂亮而且很漂亮向日葵公主会更漂亮。所以也许我会用真正的向日葵做一件花裙子。^爸爸说他会付钱给你的！谢谢你,@！^ - Trinnie",
+
+"keahi_slime.offer.text": "嘿@！你去矿井,对吧？你打史莱姆之类的吗？#$b#如果你偶然发现了史莱姆,你能给我一些吗？$h#$b#我想我会开始一个新的爱好,成为史莱姆之王！$h#$b#我要给伊莎贝尔留下深刻印象！$h#$b#你能给我一些吗？谢谢！$h",
+
+"yuuma_ring.offer.text": "呃……嘿@？我可以寻求帮助吗？$s#$b#我的戒指丢了……我妈妈很久以前给我的戒指。$s#$ b#我找不到。我希望你能帮我。$s#$b#我会付钱给你的！我保证！我不能在我去找它的时候让白一个人呆着...... $s#$b#请找到,@!$s",
+
+"olga_tuna.offer.topic": "奥尔加要金枪鱼",
+"olga_tuna.offer.text": "亲爱的@,^我想要一份金枪鱼。我的家人很想吃金枪鱼菜已经有一段时间了,我们想从你这里买一个。我们准备好了支付运费。我们希望尽快收到您的来信！^^ - Olga Liden",
+
+"aguar_essence.offer.topic": "Aguar 求精华",
+"aguar_essence.offer.text": "@, ^我需要你的帮助,为我的下一个研究项目收集一些虚空精华。我不想掩饰所以我需要依靠你。我等待你的交付。的当然会有金钱上的好处。^^- Ridgeside Water Research Facility 的 Aguar 先生",
+
+"freddie_sword.offer.text": "现在……我把那个旧东西放哪儿了？$s#$b#哦,嘿,年轻的。$h#$b#对不起。我在想我的剑。$s#$b#前几天我在村子里闲逛,我似乎放错了地方。$s#$b#我记得的最后一件事是我在瀑布旁,但我没有记住哪一个。$s#$b#哦,我希望他们找到的时候没有人受伤,它很锋利。$s#$b#如果你能找到它,@,我会付钱给你带来的回到我身边。$s",
+
+"pika_mayonnaise.offer.topic": "派克想要蛋黄酱",
+"pika_mayonnaise.offer.text": "Aloha, @!, ^我一直在想一个新菜的食谱,我一直在努力实现和一个不错的蛋黄酱搭配。 你看,蛋黄酱将是秘方！ 我希望你能给我一个。 我会付给你蛋黄酱的费用和一小笔运费。^^- Pika",
+
+"richard_glasses.offer.text": "你好,@。我需要一个帮助,如果你没问题的话。#$b#我的眼镜好像放错地方了,我很难找到它们,因为...... 没有他们我看不清楚。#$b#我只知道一天前我没有离开酒店。我会为你付出代价的。",
+
+}

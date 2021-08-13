@@ -1,0 +1,45 @@
+{
+	"Name": "Harvester Trout",
+	"Description": "It got its name for 'harvesting' crops and plants that grow near water. This destructive behavior means it's being regarded as a pest. Though it seems to be popular because of its tender oily meat.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 900,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Jeric"],
+	},
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "丰收鳟鱼",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "它以“收获”生长在水边的庄稼和植物而得名。 这种破坏性行为意味着它被视为害虫。 虽然它似乎很受欢迎，因为它的肉质柔软油腻。",
+    }
+}

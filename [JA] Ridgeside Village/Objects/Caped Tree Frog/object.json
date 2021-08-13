@@ -1,0 +1,45 @@
+{
+	"Name": "Caped Tree Frog",
+	"Description": "The red pattern that covers it's neck and back looks like a cape. It tucks one arm in while extending the other one whenever it leaps. Its rarity caused it to become a valuable pet among collectors.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 1000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Philip"],
+	},
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "披风树蛙",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "覆盖脖子和背部的红色图案看起来像斗篷。 每当它跳跃时，它会将一只手臂缩进，同时伸展另一只手臂。 它的稀有性使其成为收藏家中的珍贵宠物。",
+    }
+}

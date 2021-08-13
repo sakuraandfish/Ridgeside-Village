@@ -1,0 +1,45 @@
+{
+	"Name": "Crimson Spiked Clam",
+	"Description": "An endangered species of clam. It is covered with sharp red spikes. Fetches a mighty high price due to the Ruby-like pearls it creates.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 1300,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Flor"],
+	},
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "深红尖刺蛤",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "一种濒临灭绝的蛤蜊。 它覆盖着尖锐的红色尖刺。 由于它创造了类似红宝石的珍珠，因此价格非常高。",
+    }
+}

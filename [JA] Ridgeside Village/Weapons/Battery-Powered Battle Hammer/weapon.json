@@ -1,0 +1,48 @@
+{
+	"Name": "Battery-Powered Battle Hammer",
+	"Description": "An ancient hammer that suspiciously looks modern in terms of design. A lot about it is still unknown. It packs quite a punch though!",
+	"Type": "club",
+	"PurchasePrice": 50000,
+	"MinimumDamage": 150,
+	"MaximumDamage": 180,
+	"Knockback": 5.0,
+	"Speed": 5,
+	"Accuracy": 80,
+	"Defense": 14,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.20,
+	"CritMultiplier": 2,
+
+    "NameLocalization":
+    { 
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "电池供电的战锤",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language    	
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        "zh": "一个古老的锤子，在设计上看起来很现代。 关于它的很多内容仍然未知。 尽管如此，它还是很有冲击力的！",
+    }
+}
